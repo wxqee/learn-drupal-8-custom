@@ -4,3 +4,10 @@ hello.hello:
   route_name: hello
   expanded: TRUE
   weight: 100
+
+hello.welcome:
+  title: Welcome
+  menu_name: main
+  route_name: welcome
+  expanded: TRUE
+  weight: 110
