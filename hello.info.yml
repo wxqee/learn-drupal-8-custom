@@ -1,0 +1,6 @@
+name: Hello
+type: module
+description: 'My first Drupal 8 module.'
+package: Awesome modules
+version: 1.0
+core: '8.x'
