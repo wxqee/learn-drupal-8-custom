@@ -1,0 +1,6 @@
+hello.hello:
+  title: Hello!
+  Menu_name: main
+  route_name: hello
+  expanded: TRUE
+  weight: 100
