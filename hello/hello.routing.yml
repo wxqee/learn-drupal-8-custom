@@ -20,3 +20,10 @@ hello.form:
      _title: 'Hello Form'
    requirements:
      _permission: 'access content'
+
+hello.modal:
+   path: 'hello/modal'
+   defaults:
+     _form: '\Drupal\hello\Form\HelloModalForm'
+   requirements:
+       _access: 'TRUE'

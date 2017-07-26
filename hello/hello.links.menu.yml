@@ -19,3 +19,10 @@ hello.form:
   expanded: TRUE
   weight: 120
 
+hello.modal:
+  title: Hello Modal Form
+  menu_name: main
+  route_name: hello.modal
+  expanded: TRUE
+  weight: 130
+
