@@ -11,3 +11,11 @@ hello.welcome:
   route_name: welcome
   expanded: TRUE
   weight: 110
+
+hello.form:
+  title: Hello Form
+  menu_name: main
+  route_name: hello.form
+  expanded: TRUE
+  weight: 120
+
