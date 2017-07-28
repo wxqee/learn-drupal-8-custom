@@ -1,0 +1,9 @@
+name: Customer Content Type
+description: The simplest example of implementing a customer node content type in a module.
+package: Awesome modules
+type: module
+dependencies:
+  - node
+  - path
+  - text
+core: 8.x
